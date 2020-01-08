@@ -54,7 +54,6 @@ entrypoints==0.3
 et-xmlfile==1.0.1
 fastcache==1.1.0
 filelock==3.0.12
-fim===6.28.-2017.03.24-
 Flask==1.1.1
 Flask-Compress==1.4.0
 future==0.17.1
