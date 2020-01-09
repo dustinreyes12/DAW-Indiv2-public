@@ -931,7 +931,7 @@ tabs = dbc.Tabs(
 app = dash.Dash(__name__, external_stylesheets=[dbc.themes.SKETCHY])
 # app.config.suppress_callback_exceptions = True
 app.layout = html.Div([tabs])
-
+server = app.server
 
 # -------------------------------CALLBACKS------------------------------------
 
