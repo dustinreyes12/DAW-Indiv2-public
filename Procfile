@@ -1,1 +1,1 @@
-web: gunicorn Optional Project by Dustin Reyes.py:server
+web: gunicorn app:server
